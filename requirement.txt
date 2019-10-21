@@ -104,6 +104,6 @@ vyper
 wcwidth==0.1.7
 web3
 websockets==5.0.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 yarl==1.2.6
 zeroconf==0.20.0
