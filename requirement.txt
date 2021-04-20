@@ -67,7 +67,7 @@ plyvel==1.0.4
 prompt-toolkit==1.0.15
 psycopg2==2.7.5
 ptyprocess==0.6.0
-py==1.5.3
+py==1.10.0
 py-ecc==1.4.3
 py-evm==0.2.0a18
 py-solc==2.2.0
